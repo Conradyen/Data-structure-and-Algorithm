@@ -1,7 +1,14 @@
 # Data-structure-and-Algorithm
 
- - Binary Search Tree
+ ### 1. Binary Search Tree
+ 
+  - Delete node and replace with predecessor
+ 
+  - Delete node and replace with successor
+  
+  - Check if a node is a leaf
 
- - Singly Linked List
 
- - Heap Sort
+### 2. Singly Linked List
+
+### 3. Heap Sort
