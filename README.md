@@ -10,5 +10,9 @@
 
 
 ### 2. Singly Linked List
+ 
+ - Add to head
+ - Add to tail
+ - selection sort
 
 ### 3. Heap Sort
