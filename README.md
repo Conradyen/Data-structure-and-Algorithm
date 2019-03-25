@@ -19,3 +19,7 @@
  - Make list to a max heap
  - Sort list to ascending order
  - Sort list to descending order
+
+### 4. Graph
+ - Make a graph with adjacency list representation
+ - Use Dijkstra's algorithm to find the shortest path tree
