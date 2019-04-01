@@ -21,5 +21,10 @@
  - Sort list to descending order
 
 ### 4. Graph
+
  - Make a graph with adjacency list representation
  - Use Dijkstra's algorithm to find the shortest path tree
+ 
+#### 5. Topological Sort
+ - Make a graph with adjacency list representation
+ - Use DFS to print out topological order, if contain cycle print out edges that forms the cycle
